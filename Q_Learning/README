@@ -1,0 +1,2 @@
+Nim is a game where you remove a number from a pile of 3. The person who removes the final remaining item from the pile loses.
+This algorithm finds the optimal moves for each state (board set up) and takes that optimal move.
